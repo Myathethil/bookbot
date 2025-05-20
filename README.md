@@ -1,0 +1,2 @@
+# bookbot
+Bood.dev curriculum
